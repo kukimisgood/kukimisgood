@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 김승주입니다.  👋
 
 <a href="https://kukimisgood.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 
