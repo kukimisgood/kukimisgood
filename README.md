@@ -1,6 +1,6 @@
 ## 안녕하세요 김승주입니다.  👋
 
-<a href="https://kukimisgood.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
+<a href="https://kukimisgood.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukimisgood&show_icons=true&theme=radical)
 
