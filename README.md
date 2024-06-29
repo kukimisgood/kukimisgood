@@ -1,5 +1,6 @@
-## Hello 👋 
-## I'm seungju kim 😊 
+## Hello 👋 , My name is seungju kim 😊 
+## Welcome to my GitHub!
+## Take a look around and visit my blog too 👾
 
 <a href="https://kukimisgood.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 
