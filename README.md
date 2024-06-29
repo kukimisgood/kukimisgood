@@ -1,4 +1,5 @@
-## Hello 👋       I'm seungju kim 😊 
+## Hello 👋 
+## I'm seungju kim 😊 
 
 <a href="https://kukimisgood.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 
